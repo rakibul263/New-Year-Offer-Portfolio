@@ -1,0 +1,122 @@
+*{
+    font-family: "Inter";
+
+}
+.banner{
+    position: relative;
+    width: 100%;
+}
+
+.banner-img{
+    width: 100%;
+    display: block;
+}
+.banner-text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    background-color: rgba( 0, 0, 0, 0.6);
+    width: 97%;
+    height: 99%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.offer{
+    margin-top: 5rem;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.offer-heading{
+    font-size: 5rem;
+    font-weight: bold;
+    color: red;
+}
+
+.title-of-heading{
+    font-size: 1.3rem;
+    color: red;
+}
+
+.title-of-last-line{
+    font-size: 2.5rem;;
+}
+
+.second-banner{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.heading-image-banner{
+    display: flex;
+    position:absolute;
+    background-color: rgba( 0, 0, 0, 0.6);
+    width: 78.4%;
+    height: 37.6rem;
+    color: white;
+    border-radius: 9px;
+}
+
+.midnight-welcome{
+    font-family: "Merriweather";
+    font-size: 4rem;
+    font-weight: bold;
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
+.second-banner-p{
+    font-family: "Inter";
+    font-size: 18px;
+    margin-left: 3rem;
+}
+.third_banner{
+    display: flex;
+    justify-content: space-between;
+}
+.link-tag-second-banner{
+    color: white; 
+    font-weight: bold; 
+    font-size: 20px; 
+    margin-top: 4rem; 
+    margin-left: 3rem;
+}
+span{
+    color: red;
+}
+
+.location{
+    text-align: center;
+    margin-top: 5rem;
+}
+.color-location{
+    background: linear-gradient(to bottom, #ffeaea, #ffffff);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5rem;
+    width: 100%;
+}
+
+.third_banner_section{
+    width: 25%;
+    margin-top: 8rem;
+}
+
+.circle{
+    height: 450px;
+    width: 450px;
+    border: 1rem solid red;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.circle-img{
+    margin-top: 15%;
+    margin-left: 14%;
+}
