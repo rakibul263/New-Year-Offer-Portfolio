@@ -174,15 +174,13 @@ span{
 }
 
 .items-img img{
-    width: 26rem;
+    width: 27.5rem;
     height: 28rem;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
-.items-img img{
-    width: 100;
-    display: flex;
-    justify-content: space-evenly;
+.items-img{
+    width: 100%;
 }
 
 /* contact section */
