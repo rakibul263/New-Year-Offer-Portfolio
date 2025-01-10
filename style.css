@@ -148,3 +148,35 @@ span{
     font-size: 20px;
     font-weight: 400;
 }
+
+/* item-section */
+.items-section{
+    margin-top: 5rem;
+}
+.text-item-section{
+    width: 56rem;
+    text-decoration: justify;
+}
+.text-item-section h6{
+    color: red;
+    font-size: 24px;
+    margin-bottom: 1.2rem;
+}
+.text-item-section h2{
+    font-family: "Merriweather";
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 1.2rem;
+}
+.text-item-section p{
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+.items-img img{
+    width: 26rem;
+    height: 28rem;
+}
+
+/* contact section */
+
