@@ -120,3 +120,31 @@ span{
     margin-top: 15%;
     margin-left: 14%;
 }
+
+.forth-banner{
+    margin-top: 10rem;
+}
+
+.upper-image{
+    position: absolute;
+}
+.forth-banner-footer-section{
+    display: flex;
+}
+.text-for-forth-banner{
+    text-align: center;
+    width: 80%;
+    margin-left: 12%;
+    margin-bottom: 5rem;
+}
+.text-for-forth-banner h1{
+    font-family: "Merriweather";
+    font-size: 72px;
+}
+.text-for-forth-banner h6{
+    font-size: 24px;
+}
+.text-for-forth-banner p{
+    font-size: 20px;
+    font-weight: 400;
+}
