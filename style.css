@@ -176,6 +176,13 @@ span{
 .items-img img{
     width: 26rem;
     height: 28rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.items-img img{
+    width: 100;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 /* contact section */
@@ -248,4 +255,37 @@ span{
     display: flex;
     margin-left: 32.5%;
     margin-top: 4rem;
+}
+
+/* footer section */
+.footer-section{
+    background-color: black;
+    height: 30rem;
+    margin-top: 5rem;
+    color: white;
+}
+.footer-section h3{
+    font-size: 24px;
+}
+.footer-first{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social-media img{
+    width: 2rem;
+    display: flex-row;
+    margin-left: 1rem;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.last-part{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
 }
